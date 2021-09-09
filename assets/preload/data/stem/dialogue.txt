@@ -1,0 +1,15 @@
+:gf:default:Hey hey, you’re preeeetty good at this. So you’re like, one of BF’s dads right…?
+:gf:question:Does he call you different names or is there like a dad one and a dad two…
+:bf:uh:Hey, don’t just ask-
+:pump:default:Oh ho, I don’t mind pumpkin. Though I’m sure BF could explain it to you himself!
+:bf:sad:Guess you’re getting a crash course later.
+:bf:default:But uh, for now, I’m sure pops is pretty busy so he might not have time for-
+:pump:default:I’ve plenty of time to spend with my son and his lovely little friend! This singing thing you and Skid are fond of is quite nice, I will admit.
+:pump:default:Would you like to go another round?
+:gf:itsFine:Ye sure. You got some nice bars and a vibe I can relate with…
+:gf:wannaTalk:BF shoulda let us meet a lot sooner.
+:bf:embarrased:My mistake. Guess I’m always just nervous introducing friends to my parents, you know?
+:pump:default:Awh, do you find me too ‘cringe’ as the cool ones say?
+:bf:really:No
+:gf:letsGo:Aight… round two, less get it.
+:pump:default:Ready to go!

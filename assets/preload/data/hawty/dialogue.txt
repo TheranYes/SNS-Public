@@ -1,0 +1,22 @@
+:tankmen:default:You spit tight bars for a half-witted dickweed, I’ll give you that. Bet ol’ baby blue up there gave you some pointers.
+:gf:itsFine:Ye. He’s the best.
+:tankmen:meh:The best? Sugartits you don’t even know the half of it.
+:tankmen:steveDefault:We don’t gotta drag em’ into that muck, bossman.
+:tankmen:talk:You’re right... Now that our little game is over, there’s only one thing left for me to take.
+:tankmen:edgy:Your life.
+:bf:exclaim:!?
+:gf:default:Oh hey, nice stick.
+:tankmen:edgy:You’ll get to see a close-up real soon, dipshit. Maybe if you get your pansy-ass boyfriend over here to grovel we’ll let you go… with a few broken bones as a gift.
+:gf:meh:You just mad that you can’t rap as cool as me.
+:tankmen:giveBirth:...That’s stupid. You’re stupid. Stop being stupid.
+:tankmen:steveSweat:You really picked a, uh, ‘unique’ one there Blue.
+:tankmen:talk:Don’t chat with the bastard.
+:bf:angry:Tank, leave her out of this. If it’s revenge or a contract on me just hurry up-
+:tankmen:default:Daddy jack o’ lantern wouldn’t be too pleased if his backstabbing brat came to dinner with a cracked skull… haven’t you figured it out? This ain’t about YOU to begin with.
+:bf:question:Huh?
+:tankmen:default:Some pissed off bonehead wanted that moron to be ‘taught a lesson’. And while it may not be the same as hurting you...
+:tankmen:edgy:A big dose of emotional pain is just what the doctor ordered.
+:gf:meh:Soooo like, you admit you suck at rapping or?
+:tankmen:steveFunction:How do you FUNCTION?
+:tankmen:annoy:Tch. We got time to kill. Let’s go another round, why not? Better keep up though, cause if not…
+:tankmen:edgy:I’ll dice your ass faster than a motherfuckin’ sushi chef. 

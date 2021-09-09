@@ -1,0 +1,27 @@
+:bf:sad:Are you sure we’re going the right way-? This place gives off some seriously bad vibes.
+:gf:itsFine:Naaaah it’s fine… I come through here all the time. There’s like a pair of scruffy guys that stare sometimes but they never wanna talk to me.
+:bf:sigh:Well if you say so. Let’s just hurry up... I’m hungry and we aren’t exactly surrounded by pleasant scenery.
+:tankmen:defaultHelm:Where ya goin’, hotshot?
+:bf:exclaim:Huh-? Wait, you’re-
+:tankmen:defaultHelm:That ain’t important right now. How about you two have a little chat with us?
+:gf:wannaTalk:Oh you wanna talk…? Sure.
+:bf:question:...Us?
+:tankmen:steveDefault:Hey Blue. Take a seat… make it easier on everyone, ‘kay?
+:tankmen:default:So, I’m sure you’re wondering why we stopped ya-
+:gf:question:You’re the same dudes I always see through here… that’s cool. I tried talking to you before… but then you said something like-
+:tankmen:ugh:Ugh.
+:gf:itsFine:Yeah that-
+:tankmen:annoy:LISTEN. you airheaded ironing board. I’m here to-
+:gf:meh:Challenge me to a rap battle…? That’d be cool.
+:tankmen:steveFunction:The fuck did you say?
+:tankmen:giveBirth:What- are you stupid!?
+:bf:angry:What do you want, Tank? You know what’ll happen if pops finds out about this.
+:tankmen:ugh:You think I don’t know that? How do you suppose we’re makin’ a move now?
+:gf:default:Is that a yes, or…?
+:tankmen:meh:For fuck’s sake- you know what, if it’ll shut you up? Sure. Let’s have a rap battle. Been a long while since I’ve had a good challenge.
+:tankmen:talk:Wait, what’re you gonna even play the music on-
+:bf:default:These speakers.
+:tankmen:giveBirth:What-
+:tankmen:simpBait:-the Hell?
+:gf:letsGo:Lets gooooo!
+:tankmen:meh:Fuckin’ whatever.

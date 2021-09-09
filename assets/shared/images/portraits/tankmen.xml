@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankmen.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Annoy instance 10000" x="0" y="0" width="536" height="356"/>
+	<SubTexture name="Default Helm instance 10000" x="536" y="0" width="536" height="355"/>
+	<SubTexture name="Default instance 10000" x="1072" y="0" width="536" height="355"/>
+	<SubTexture name="Edgey instance 10000" x="0" y="356" width="535" height="355"/>
+	<SubTexture name="Giving birth instance 10000" x="535" y="356" width="536" height="355"/>
+	<SubTexture name="Simp bait instance 10000" x="1071" y="356" width="536" height="355"/>
+	<SubTexture name="Steve Default instance 10000" x="0" y="711" width="535" height="355"/>
+	<SubTexture name="Steve Function instance 10000" x="535" y="711" width="536" height="356"/>
+	<SubTexture name="Talk instance 10000" x="1071" y="711" width="536" height="355"/>
+	<SubTexture name="meh instance 10000" x="0" y="1067" width="536" height="355"/>
+	<SubTexture name="steve sweat instance 10000" x="536" y="1067" width="535" height="355"/>
+	<SubTexture name="ugh instance 10000" x="1071" y="1067" width="536" height="355"/>
+</TextureAtlas>

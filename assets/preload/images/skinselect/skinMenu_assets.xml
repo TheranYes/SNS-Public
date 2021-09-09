@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skinMenu_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Arrow Press0000" x="0" y="0" width="71" height="129"/>
+	<SubTexture name="Arrow Press0001" x="0" y="0" width="71" height="129"/>
+	<SubTexture name="Arrow Press0002" x="81" y="0" width="71" height="129"/>
+	<SubTexture name="Arrow Press0003" x="81" y="0" width="71" height="129"/>
+	<SubTexture name="Arrow Press0004" x="81" y="0" width="71" height="129"/>
+	<SubTexture name="Arrow Press0005" x="162" y="0" width="71" height="129"/>
+	<SubTexture name="Arrow idle0000" x="243" y="0" width="71" height="131"/>
+	<SubTexture name="Arrow idle0001" x="243" y="0" width="71" height="131"/>
+	<SubTexture name="Arrow idle0002" x="243" y="0" width="71" height="131"/>
+	<SubTexture name="Arrow idle0003" x="243" y="0" width="71" height="131"/>
+	<SubTexture name="Arrow idle0004" x="324" y="0" width="71" height="131"/>
+	<SubTexture name="Arrow idle0005" x="324" y="0" width="71" height="131"/>
+	<SubTexture name="Arrow idle0006" x="324" y="0" width="71" height="131"/>
+	<SubTexture name="Arrow idle0007" x="324" y="0" width="71" height="131"/>
+	<SubTexture name="Arrow idle0008" x="324" y="0" width="71" height="131"/>
+	<SubTexture name="Checkmark Press0000" x="0" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0001" x="0" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0002" x="119" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0003" x="119" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0004" x="238" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0005" x="238" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0006" x="238" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0007" x="357" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0008" x="357" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0009" x="357" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0010" x="357" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0011" x="357" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0012" x="357" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0013" x="357" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark Press0014" x="357" y="141" width="109" height="87"/>
+	<SubTexture name="Checkmark idle0000" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0001" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0002" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0003" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0004" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0005" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0006" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0007" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0008" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0009" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0010" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0011" x="0" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0012" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0013" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0014" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0015" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0016" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0017" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0018" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0019" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0020" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0021" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0022" x="123" y="238" width="113" height="88"/>
+	<SubTexture name="Checkmark idle0023" x="123" y="238" width="113" height="88"/>
+</TextureAtlas>

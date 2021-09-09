@@ -1,0 +1,16 @@
+:bf:sigh:Whew. Great refresher… I remember why I don't do this thing much anymore.
+:gf:question:You were super duper cool n' everything… weren’t your dads also singers or somethin’?
+:bf:default:Kinda. One's a rockstar and the other-
+:pump:hidden:Boo.
+:bf:exclaim:Huh-!?
+:gf:question:Hmm…?
+:pump:default:Wahahaha! Spooked you~!
+:bf:sigh:And there’s the other one… hi pops.
+:pump:question:Evenin’ pumpkin, who’s the lackadaisical pal you’re hanging with?
+:gf:itsFine:Wassup veggie-man? I’m-
+:bf:embarrased:-A friend! We were just, uh, enjoying some music.
+:gf:default:Yeah, friends, like-
+:bf:uh:SO! GF here is a pretty good singer, why don’t you join in now that you’re here, pops?!
+:pump:question:. . .
+:pump:happy:Oh how fun! That sounds like a great idea. I may not be as good at it as my husband but I enjoy humming a tune now and again.
+:gf:default:Suuuure… you seem pretty chill. You can go first if ya want, that’s usually how we do these kinda things.

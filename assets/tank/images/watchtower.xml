@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="watchtower.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="watchtower0000" x="5" y="5" width="497" height="853"/>
+	<SubTexture name="watchtower0001" x="512" y="5" width="497" height="853"/>
+	<SubTexture name="watchtower0002" x="512" y="5" width="497" height="853"/>
+	<SubTexture name="watchtower0003" x="1019" y="5" width="497" height="853"/>
+</TextureAtlas>

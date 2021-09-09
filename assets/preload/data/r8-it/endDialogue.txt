@@ -1,0 +1,18 @@
+:tankmen:defaultHelm:It’s been real. It’s been fun. But it ain’t been real fun. Hold still so I can-
+:pump:hidden:Helllllooooo? Pumpkin, are you around here somewhere?
+:tankmen:annoy:Shit, these fuckers tricked us-
+:tankmen:simpBait:We gotta scram bossman. Ain’t no way we takin on HIM.
+:bf:sigh:(Oh thank god…)
+:gf:squish:Oh are we done already? That’s a shame.
+:tankmen:annoy:I’ll find you again you bimbo balloon and when I do you’re DEAD.
+:tankmen:steveDefault:See ya around!
+:pump:default:Hmmm? Oh, there you are! And I see you have your friend too!! Hello!
+:gf:question:Oh hey dad one. What’re you doin’ here?
+:pump:question:I came as soon as I got the call for a ride! Though I must say this spot is quite unusual. Were you two singing again all the way out here?
+:bf:embarrased:Yeah pops, something like that. I think we’d just like a lift if you don’t mind…
+:pump:happy:Of course, of course! You’re in luck, BF’s friend, for this shall be your first time aboard the magic limo!
+:gf:question:The wha?
+:bf:sad:(Tankman said something about a ‘bonehead’... I don’t wanna make assumptions but my gut is sinking lower and lower…)
+:pump:default:Hop aboard you two!
+:gf:meh:Swaggers.
+:bf:exclaim:R-right, coming!

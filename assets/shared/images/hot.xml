@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hot.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ded0000" x="0" y="0" width="600" height="600"/>
+	<SubTexture name="ded0001" x="0" y="0" width="600" height="600"/>
+	<SubTexture name="ded0002" x="0" y="0" width="600" height="600"/>
+	<SubTexture name="ded0003" x="600" y="0" width="600" height="600"/>
+	<SubTexture name="ded0004" x="600" y="0" width="600" height="600"/>
+	<SubTexture name="ded0005" x="600" y="0" width="600" height="600"/>
+	<SubTexture name="ded0006" x="1200" y="0" width="600" height="600"/>
+	<SubTexture name="ded0007" x="1200" y="0" width="600" height="600"/>
+	<SubTexture name="ded0008" x="1200" y="0" width="600" height="600"/>
+	<SubTexture name="ded0009" x="0" y="600" width="600" height="600"/>
+	<SubTexture name="ded0010" x="0" y="600" width="600" height="600"/>
+	<SubTexture name="ded0011" x="0" y="600" width="600" height="600"/>
+	<SubTexture name="ded0012" x="600" y="600" width="600" height="600"/>
+	<SubTexture name="ded0013" x="600" y="600" width="600" height="600"/>
+	<SubTexture name="ded0014" x="600" y="600" width="600" height="600"/>
+	<SubTexture name="idle0000" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="idle0001" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="idle0002" x="1200" y="600" width="600" height="600"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bnb.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Angy Brake0000" x="0" y="0" width="535" height="355"/>
+	<SubTexture name="Angy Duo0000" x="535" y="0" width="535" height="355"/>
+	<SubTexture name="Bored 0000" x="1070" y="0" width="535" height="355"/>
+	<SubTexture name="Boss Default0000" x="0" y="355" width="535" height="355"/>
+	<SubTexture name="Brake Default0000" x="535" y="355" width="535" height="355"/>
+	<SubTexture name="Lose Stack0000" x="1070" y="355" width="535" height="355"/>
+	<SubTexture name="Talk Boss0000" x="0" y="710" width="535" height="355"/>
+	<SubTexture name="Talk Brake0000" x="535" y="710" width="535" height="355"/>
+</TextureAtlas>

@@ -1,0 +1,66 @@
+package;
+
+import flixel.FlxSprite;
+import flixel.FlxG;
+
+class HealthIcon extends FlxSprite
+{
+	/**
+	 * Used for FreeplayState! If you use it elsewhere, prob gonna annoying
+	 */
+	public var sprTracker:FlxSprite;
+
+	public function new(char:String = 'bf', isPlayer:Bool = false)
+	{
+		super();
+		//trace('skins/icongrids/' + CoolUtil.coolTextFile('assets/data/skinList.txt')[FlxG.save.data.activeSkin].toLowerCase());
+		//var icongrid:String = 'icongrids/' + CoolUtil.coolTextFile('assets/data/skinList.txt')[FlxG.save.data.activeSkin].toLowerCase()
+
+		loadGraphic(Paths.image('icongrids/' + CoolUtil.coolTextFile('assets/data/skinList.txt')[FlxG.save.data.activeSkin].toLowerCase()), true, 150, 150);
+
+		antialiasing = true;
+		animation.add('bf', [0, 1], 0, false, isPlayer);
+		animation.add('bf-car', [0, 1], 0, false, isPlayer);
+		animation.add('bf-christmas', [0, 1], 0, false, isPlayer);
+		animation.add('bf-pixel', [21, 21], 0, false, isPlayer);
+		animation.add('brakenboss', [2, 3], 0, false, isPlayer);
+		animation.add('spooky', [2, 3], 0, false, isPlayer);
+		animation.add('pico', [8, 9], 0, false, isPlayer);
+		animation.add('mom', [6, 7], 0, false, isPlayer);
+		animation.add('mom-car', [6, 7], 0, false, isPlayer);
+		animation.add('skearest', [6, 7], 0, false, isPlayer);
+		animation.add('tankman', [4, 5], 0, false, isPlayer);
+		animation.add('face', [10, 11], 0, false, isPlayer);
+		animation.add('dad', [12, 13], 0, false, isPlayer);	
+		animation.add('senpai-angry', [22, 22], 0, false, isPlayer);
+		animation.add('spirit', [23, 23], 0, false, isPlayer);
+		animation.add('bf-old', [14, 15], 0, false, isPlayer);
+		animation.add('gf', [16], 0, false, isPlayer);
+		animation.add('gf-tut', [16], 0, false, isPlayer);
+		animation.add('gf-christmas', [16], 0, false, isPlayer);
+		animation.add('gf-pixel', [16], 0, false, isPlayer);
+		animation.add('parents-christmas', [17, 18], 0, false, isPlayer);
+		animation.add('monster-christmas', [19, 20], 0, false, isPlayer);
+		if (CoolUtil.coolTextFile('assets/data/skinList.txt')[FlxG.save.data.activeSkin] == 'Funkin')
+			animation.add('yandere', [19, 20], 0, false, isPlayer);
+		else
+			animation.add('yandere', [22, 22], 0, false, isPlayer);
+		animation.play(char);
+
+		switch(char)
+		{
+			case 'bf-pixel' | 'yandere' | 'senpai-angry' | 'spirit' | 'gf-pixel':
+				antialiasing = false;				
+		}
+
+		scrollFactor.set();
+	}
+
+	override function update(elapsed:Float)
+	{
+		super.update(elapsed);
+
+		if (sprTracker != null)
+			setPosition(sprTracker.x + sprTracker.width + 10, sprTracker.y - 30);
+	}
+}

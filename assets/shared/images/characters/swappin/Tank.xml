@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tank.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Laugh instance 10000" x="0" y="0" width="405" height="640" frameX="-2" frameY="0" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10001" x="0" y="0" width="405" height="640" frameX="-2" frameY="0" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10002" x="405" y="0" width="411" height="631" frameX="-1" frameY="-10" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10003" x="405" y="0" width="411" height="631" frameX="-1" frameY="-10" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10004" x="816" y="0" width="413" height="636" frameX="0" frameY="-5" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10005" x="816" y="0" width="413" height="636" frameX="0" frameY="-5" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10006" x="0" y="0" width="405" height="640" frameX="-2" frameY="0" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10007" x="0" y="0" width="405" height="640" frameX="-2" frameY="0" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10008" x="405" y="0" width="411" height="631" frameX="-1" frameY="-10" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10009" x="405" y="0" width="411" height="631" frameX="-1" frameY="-10" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10010" x="816" y="0" width="413" height="636" frameX="0" frameY="-5" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10011" x="816" y="0" width="413" height="636" frameX="0" frameY="-5" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10012" x="0" y="0" width="405" height="640" frameX="-2" frameY="0" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10013" x="0" y="0" width="405" height="640" frameX="-2" frameY="0" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10014" x="405" y="0" width="411" height="631" frameX="-1" frameY="-10" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10015" x="405" y="0" width="411" height="631" frameX="-1" frameY="-10" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10016" x="816" y="0" width="413" height="636" frameX="0" frameY="-5" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Laugh instance 10017" x="816" y="0" width="413" height="636" frameX="0" frameY="-5" frameWidth="413" frameHeight="641"/>
+	<SubTexture name="Tank Down Note instance 10000" x="1229" y="0" width="554" height="450" frameX="0" frameY="0" frameWidth="556" frameHeight="456"/>
+	<SubTexture name="Tank Down Note instance 10001" x="1229" y="0" width="554" height="450" frameX="0" frameY="0" frameWidth="556" frameHeight="456"/>
+	<SubTexture name="Tank Down Note instance 10002" x="1783" y="0" width="549" height="436" frameX="-7" frameY="-20" frameWidth="556" frameHeight="456"/>
+	<SubTexture name="Tank Down Note instance 10003" x="1783" y="0" width="549" height="436" frameX="-7" frameY="-20" frameWidth="556" frameHeight="456"/>
+	<SubTexture name="Tank Down Note instance 10004" x="1783" y="0" width="549" height="436" frameX="-7" frameY="-20" frameWidth="556" frameHeight="456"/>
+	<SubTexture name="Tank Down Note instance 10005" x="1783" y="0" width="549" height="436" frameX="-7" frameY="-20" frameWidth="556" frameHeight="456"/>
+	<SubTexture name="Tank Down Note instance 10006" x="1783" y="0" width="549" height="436" frameX="-7" frameY="-20" frameWidth="556" frameHeight="456"/>
+	<SubTexture name="Tank Down Note instance 10007" x="1783" y="0" width="549" height="436" frameX="-7" frameY="-20" frameWidth="556" frameHeight="456"/>
+	<SubTexture name="Tank Idle Dance instance 10000" x="2332" y="0" width="403" height="648" frameX="-1" frameY="0" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10001" x="2332" y="0" width="403" height="648" frameX="-1" frameY="0" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10002" x="2332" y="0" width="403" height="648" frameX="-1" frameY="0" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10003" x="2735" y="0" width="410" height="641" frameX="0" frameY="-7" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10004" x="2735" y="0" width="410" height="641" frameX="0" frameY="-7" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10005" x="2735" y="0" width="410" height="641" frameX="0" frameY="-7" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10006" x="3145" y="0" width="411" height="638" frameX="0" frameY="-10" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10007" x="3145" y="0" width="411" height="638" frameX="0" frameY="-10" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10008" x="3145" y="0" width="411" height="638" frameX="0" frameY="-10" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10009" x="3556" y="0" width="411" height="637" frameX="0" frameY="-11" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10010" x="3556" y="0" width="411" height="637" frameX="0" frameY="-11" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10011" x="3556" y="0" width="411" height="637" frameX="0" frameY="-11" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10012" x="3556" y="0" width="411" height="637" frameX="0" frameY="-11" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10013" x="3556" y="0" width="411" height="637" frameX="0" frameY="-11" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank Idle Dance instance 10014" x="3556" y="0" width="411" height="637" frameX="0" frameY="-11" frameWidth="411" frameHeight="648"/>
+	<SubTexture name="Tank NOTE LEFT instance 10000" x="0" y="648" width="442" height="586" frameX="0" frameY="0" frameWidth="456" frameHeight="586"/>
+	<SubTexture name="Tank NOTE LEFT instance 10001" x="0" y="648" width="442" height="586" frameX="0" frameY="0" frameWidth="456" frameHeight="586"/>
+	<SubTexture name="Tank NOTE LEFT instance 10002" x="442" y="648" width="429" height="584" frameX="-27" frameY="-2" frameWidth="456" frameHeight="586"/>
+	<SubTexture name="Tank NOTE LEFT instance 10003" x="442" y="648" width="429" height="584" frameX="-27" frameY="-2" frameWidth="456" frameHeight="586"/>
+	<SubTexture name="Tank NOTE LEFT instance 10004" x="442" y="648" width="429" height="584" frameX="-27" frameY="-2" frameWidth="456" frameHeight="586"/>
+	<SubTexture name="Tank NOTE LEFT instance 10005" x="442" y="648" width="429" height="584" frameX="-27" frameY="-2" frameWidth="456" frameHeight="586"/>
+	<SubTexture name="Tank NOTE LEFT instance 10006" x="442" y="648" width="429" height="584" frameX="-27" frameY="-2" frameWidth="456" frameHeight="586"/>
+	<SubTexture name="Tank NOTE LEFT instance 10007" x="442" y="648" width="429" height="584" frameX="-27" frameY="-2" frameWidth="456" frameHeight="586"/>
+	<SubTexture name="Tank Note Right instance 10000" x="871" y="648" width="426" height="610"/>
+	<SubTexture name="Tank Note Right instance 10001" x="871" y="648" width="426" height="610"/>
+	<SubTexture name="Tank Note Right instance 10002" x="1297" y="648" width="412" height="610" frameX="-7" frameY="0" frameWidth="426" frameHeight="610"/>
+	<SubTexture name="Tank Note Right instance 10003" x="1297" y="648" width="412" height="610" frameX="-7" frameY="0" frameWidth="426" frameHeight="610"/>
+	<SubTexture name="Tank Note Right instance 10004" x="1297" y="648" width="412" height="610" frameX="-7" frameY="0" frameWidth="426" frameHeight="610"/>
+	<SubTexture name="Tank Note Right instance 10005" x="1297" y="648" width="412" height="610" frameX="-7" frameY="0" frameWidth="426" frameHeight="610"/>
+	<SubTexture name="Tank Note Right instance 10006" x="1297" y="648" width="412" height="610" frameX="-7" frameY="0" frameWidth="426" frameHeight="610"/>
+	<SubTexture name="Ugh instance 10000" x="1709" y="648" width="397" height="640" frameX="0" frameY="0" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10001" x="1709" y="648" width="397" height="640" frameX="0" frameY="0" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10002" x="2106" y="648" width="395" height="620" frameX="0" frameY="-10" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10003" x="2106" y="648" width="395" height="620" frameX="0" frameY="-10" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10004" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10005" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10006" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10007" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10008" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10009" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10010" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10011" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10012" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10013" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10014" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10015" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10016" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10017" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10018" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10019" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10020" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10021" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10022" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10023" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10024" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10025" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10026" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10027" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10028" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10029" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10030" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="Ugh instance 10031" x="2501" y="648" width="402" height="635" frameX="0" frameY="-5" frameWidth="402" frameHeight="640"/>
+	<SubTexture name="You're Ugly instance 10000" x="2903" y="648" width="412" height="637" frameX="-2" frameY="-8" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10001" x="2903" y="648" width="412" height="637" frameX="-2" frameY="-8" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10002" x="3315" y="648" width="405" height="637" frameX="0" frameY="-4" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10003" x="3315" y="648" width="405" height="637" frameX="0" frameY="-4" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10004" x="0" y="1288" width="483" height="646" frameX="-3" frameY="-2" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10005" x="0" y="1288" width="483" height="646" frameX="-3" frameY="-2" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10006" x="0" y="1288" width="483" height="646" frameX="-3" frameY="-2" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10007" x="483" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10008" x="483" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10009" x="483" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10010" x="958" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10011" x="958" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10012" x="958" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10013" x="1433" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10014" x="1908" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10015" x="1908" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10016" x="2383" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10017" x="2383" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10018" x="2858" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10019" x="2858" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10020" x="3333" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10021" x="3333" y="1288" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10022" x="0" y="1934" width="475" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10023" x="475" y="1934" width="476" height="641" frameX="-4" frameY="-7" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10024" x="475" y="1934" width="476" height="641" frameX="-4" frameY="-7" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10025" x="951" y="1934" width="452" height="645" frameX="0" frameY="0" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10026" x="951" y="1934" width="452" height="645" frameX="0" frameY="0" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10027" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10028" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10029" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10030" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10031" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10032" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10033" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10034" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10035" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10036" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10037" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10038" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10039" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10040" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10041" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="You're Ugly instance 10042" x="1403" y="1934" width="457" height="644" frameX="-3" frameY="-1" frameWidth="486" frameHeight="648"/>
+	<SubTexture name="Tank Up note instance 10000" x="1860" y="1934" width="459" height="669"/>
+	<SubTexture name="Tank Up note instance 10001" x="1860" y="1934" width="459" height="669"/>
+	<SubTexture name="Tank Up note instance 10002" x="2319" y="1934" width="459" height="655" frameX="0" frameY="-10" frameWidth="459" frameHeight="669"/>
+	<SubTexture name="Tank Up note instance 10003" x="2319" y="1934" width="459" height="655" frameX="0" frameY="-10" frameWidth="459" frameHeight="669"/>
+	<SubTexture name="Tank Up note instance 10004" x="2319" y="1934" width="459" height="655" frameX="0" frameY="-10" frameWidth="459" frameHeight="669"/>
+	<SubTexture name="Tank Up note instance 10005" x="2319" y="1934" width="459" height="655" frameX="0" frameY="-10" frameWidth="459" frameHeight="669"/>
+	<SubTexture name="Tank Up note instance 10006" x="2319" y="1934" width="459" height="655" frameX="0" frameY="-10" frameWidth="459" frameHeight="669"/>
+	<SubTexture name="Tank Up note instance 10007" x="2319" y="1934" width="459" height="655" frameX="0" frameY="-10" frameWidth="459" frameHeight="669"/>
+</TextureAtlas>

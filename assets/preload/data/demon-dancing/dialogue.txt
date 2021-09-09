@@ -1,0 +1,23 @@
+:bnb:bored:Hey. Lady. I’m bored.
+:gf:squish:Mood...
+:bf:question:Why are we here again?
+:gf:squishTalk:I wanted some moola and my uncle said they’d dole some out if I watched over Boss for a bit.
+:gf:question:Though somethin’s weird…
+:gf:question:Oooh right… where’s your friend?
+:bnb:angry:I’ve been here dipshit. Where did you even hide the cookie jar!?
+:gf:hide:*burp* Hide?
+:bf:sad:They seem about ready to blast a hole in the wall…
+:gf:eh:Yeah. Normally they like, go around and do stuff but this time they’re supposed to stay inside.
+:bnb:talkBoss:Why do we gotta listen to YOU anyway?
+:bnb:talkBrake:Yeah, you’re STUPID.
+:bf:angry:Hey! Watch it-
+:gf:stupid:Cuz you’re stupider.
+:bnb:bothAngry:What!?
+:bnb:bothAngry:Nuh-uh!
+:gf:smug:Yuh-huh, I bet you couldn’t even like, out rap me.
+:bnb:defaultBoss:You mean saying dumb stuff into a mic?
+:bnb:defaultBrake:We could TOTALLY beat you!
+:bf:angry:GF. I’m not bringing out the speakers for-
+:gf:letsGo:Niiiice, let’s do it then!
+:bf:really2:...
+:bf:sigh:Fine.
