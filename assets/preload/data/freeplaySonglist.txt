@@ -4,6 +4,7 @@ Stem:dad:1
 Carving Session:dad:1
 Demon Dancing:brakenboss:2
 Attention:brakenboss:2
+Monster:yandere:2
 Roll Out:tankman:3
 Hawty:tankman:3
 Rate It:tankman:3

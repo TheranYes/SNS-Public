@@ -6,13 +6,15 @@
 :tankmen:edgy:Your life.
 :bf:exclaim:!?
 :gf:default:Oh hey, nice stick.
-:tankmen:edgy:You’ll get to see a close-up real soon, dipshit. Maybe if you get your pansy-ass boyfriend over here to grovel we’ll let you go… with a few broken bones as a gift.
+:tankmen:edgy:You’ll get to see a close-up real soon, dipshit. Maybe if you get your pansy-ass boyfriend over here to grovel we’ll let you go… 
+:tankmen:edgy:With a few broken bones as a gift.
 :gf:meh:You just mad that you can’t rap as cool as me.
 :tankmen:giveBirth:...That’s stupid. You’re stupid. Stop being stupid.
 :tankmen:steveSweat:You really picked a, uh, ‘unique’ one there Blue.
 :tankmen:talk:Don’t chat with the bastard.
 :bf:angry:Tank, leave her out of this. If it’s revenge or a contract on me just hurry up-
-:tankmen:default:Daddy jack o’ lantern wouldn’t be too pleased if his backstabbing brat came to dinner with a cracked skull… haven’t you figured it out? This ain’t about YOU to begin with.
+:tankmen:default:Daddy jack o’ lantern wouldn’t be too pleased if his backstabbing brat came to dinner with a cracked skull… haven’t you figured it out? 
+:tankmen:default:This ain’t about YOU to begin with.
 :bf:question:Huh?
 :tankmen:default:Some pissed off bonehead wanted that moron to be ‘taught a lesson’. And while it may not be the same as hurting you...
 :tankmen:edgy:A big dose of emotional pain is just what the doctor ordered.

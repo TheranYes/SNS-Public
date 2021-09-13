@@ -47,6 +47,7 @@ class GameOverSubstate extends MusicBeatSubstate
 
 		if (daBf == 'bf-dead')
 		{
+			FlxG.camera.x += 175;
 			camFollow.y -= 200; //hardcoded AS FUCK but oh well
 		}
 

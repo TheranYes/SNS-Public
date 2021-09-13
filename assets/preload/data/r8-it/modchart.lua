@@ -5,7 +5,7 @@ end
 
 -- this gets called every frame
 function update(elapsed) -- arguments, how long it took to complete a frame
-	if (curStep == 108) then
+	if (curStep == 110) then
 		playActorAnimation('dad', 'ugly')
 	end
 

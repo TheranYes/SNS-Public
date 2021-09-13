@@ -365,17 +365,21 @@ class DialogueBox extends FlxSpriteGroup
 				playChar(portraitBF);
 				box.flipX = true;
 				changeSound('bf', 0.6);
+				changeColour(0xFF4596F9, 0xFF001833);
 			case 'gf':
 				playChar(portraitGF);
 				box.flipX = false;
 				changeSound('gf', 0.6);
+				changeColour(0xFFED6D82, 0xFF470301);
 			case 'pump':
 				playChar(portraitPUMP);
 				box.flipX = true;
 				changeSound('pump', 0.6);
+				changeColour(0xFFF9B657, 0xFF562C0C);
 			case 'bnb':
 				playChar(portraitBNB);
 				box.flipX = true;
+				changeColour(0xFFBF81C6, 0xFF641436);
 				
 				if (curAnim.toLowerCase().contains('brake') || curAnim == 'angry')
 					changeSound('brake', 0.8);
@@ -387,9 +391,23 @@ class DialogueBox extends FlxSpriteGroup
 				playChar(portraitTANK);
 				box.flipX = true;
 				if (curAnim.toLowerCase().contains('steve') || curAnim.contains('simp'))
-					changeSound('steve', 0.5);
+				{
+					trace(swagDialogue.text);
+					var volume:Float = 0.5;
+					if (dialogueList[0].contains('FUNCTION'))
+					{
+						volume = 0;
+						FlxG.sound.play(Paths.sound('dialogue/how_function'));
+					}
+					changeSound('steve', volume);
+					changeColour(0xFFCE6BC4, 0xFF000000);
+				}	
 				else
-					changeSound('tankman', 0.6);
+				{
+					changeSound('tankman', 0.7);
+					changeColour(0xFF73D7B6, 0xFF000000);
+				}
+					
 		}
 	}
 
@@ -429,5 +447,11 @@ class DialogueBox extends FlxSpriteGroup
 	function changeSound(sound:String, volume:Float)
 	{
 		swagDialogue.sounds = [FlxG.sound.load(Paths.sound('dialogue/' + sound), volume)];
+	}
+
+	function changeColour(?dropColor:FlxColor = 0xFFD89494, ?swagColor:FlxColor = 0xFF3F2021) //british moment
+	{
+		dropText.color = dropColor;
+		swagDialogue.color = swagColor;
 	}
 }

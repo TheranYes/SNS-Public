@@ -1,12 +1,13 @@
-:bf:default:Alrighty, the rap master need a refresher course?
-:gf:default:You know it! Need to keep up the practice if I want to beat your parents...
-:bf:default:They don't take too kindly to people stealing their son away...
-:gf:default:Pffft-
-:gf:default:You're cute...
-:gf:default:How about a little kiss for good luck?
-:bf:default:I-
-:bf:default:Uh-
-:bf:default:Just use the arrow keys or WASD to sing-
-:bf:default:And
-:bf:default:... 
-:bf:default:Just try to keep up-
+:gf:default:Geez, took a lil’ bit, but at least we got some time to sing now.
+:bf:embarrased:Yeah, about that…
+:gf:squish:Heck what now?
+:bf:sad:I think either dad or pops is gonna show up to take me home soon. We’ve been out for a while. And… 
+:bf:sad:Well how about we just use the time we have left?
+:gf:wannaTalk:That’s cool but there’s no one else around yeah? Unless…
+:bf:blush:Mhm! I don’t mind singing if it’s with you.
+:gf:itsFine:Aw, bae.
+:bf:default:So just in case we run into one of em… lemme go above and beyond! 
+:bf:default:Keep up with this and I’m sure everything that comes after should be easy.
+:gf:default:So it's kinda just like practicing, right?
+:bf:default:Right! We don’t want to slip or anything.
+:gf:letsGo:Mmhmm… aight’ let’s do it.
