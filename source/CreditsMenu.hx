@@ -15,9 +15,9 @@ import flixel.text.FlxText;
 import flixel.util.FlxColor;
 import lime.utils.Assets;
 import flixel.addons.transition.FlxTransitionableState;
-
+#if windows 
 import Discord.DiscordClient;
-
+#end 
 using StringTools;
 
 //Definetely not copying this from the softmod bc im lazy THANK YOUUUUUU D;
@@ -47,9 +47,10 @@ class CreditsMenu extends MusicBeatState
 	
 		//FlxG.sound.cache('assets/data/senpai/confirmSound.ogg');
 
-		// Updating Discord Rich Presence
+		// Updating Discord Rich Presence 
+		#if windows 
 		DiscordClient.changePresence("Looking at the Credits", null);
-
+                #end
 		FlxG.sound.playMusic(Paths.music("breakfast", 'shared'));
         FlxG.sound.music.fadeIn(1, 0, 0.7);
 		
